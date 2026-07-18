@@ -1,0 +1,10 @@
+Moscuza e Lanza hanno due progetti vicini perché in realtà... non so se conoscete il concetto di guardrail. Il concetto di guardrail per LLM e il concetto di sandbox. Il guardrail è qualcosa che, se io gli chiedo come fare la bomba atomica in casa, magari lui non mi risponde.
+Di fatto sono dei modelli, quindi uno studio, stato dell'arte. Quindi: ho trovato queste librerie open source, e quindi ho imparato e le posso usare in qualunque applicazione perché sono open source, oppure no, non ne ho trovate.
+
+E questo vale sia per un guardrail che per una sandbox. In un certo senso questo è il classico mini challenge tipo 'risolvi il problema'. Ci sono spin-off che fanno, che vendono prodotti di questo genere, quindi mi rendo conto che è anche difficile.
+
+Però io vorrei che voi imparaste almeno lo stato dell'arte, quindi i principi di funzionamento, e che poteste anche progettare sommariamente una cosa del genere. Quindi immaginiamo che io creo un bot ChatGPT che, prima di darmi la risposta, che ne so, ne invoca un altro, e allora me lo rendete come sandbox, o lo rendete... insomma, c'è da giostrare. Quindi il progetto è anche somewhat underspecified, me ne rendo conto, però vogliamo costruire competenza.
+
+Quindi: 'non esiste, sono tutti nascosti dietro sistemi commerciali. Ok, se lo dovessimo fare noi è troppo difficile'. Lo so, però c'è sempre un modo di comodo che possiamo usare. Quindi andiamo a incrociare: di fatto un guardrail è un proxy, che possiamo avere in input e in output, quindi prima di... ha fatto tutto, prima di dare in output ho il guardrail che mi limita. La sandbox è diciamo per l'esplosione interna, da viscere, ma è un po' la stessa cosa.
+
+Quindi, come demo... Quindi anche qui c'è la circolarità, cioè la ricorsività. Ovvero AI che aiuta per l'AI, cioè per i task che vi ho dato. Cioè è chiaro che vi aiuterete sia a livello concettuale sia a livello prototipale, ma in un certo senso questo ormai è ovvio dappertutto. Perché io per andare a risolvere il problema... ahimè, il cervello ce l'ha. 
